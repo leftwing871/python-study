@@ -1,3 +1,7 @@
 pip install PyMySQL
 
 pip install mysql-connector-python
+
+
+#script test
+mysql -h database-2-cluster.cluster-xxxxxxxx.ca-central-1.rds.amazonaws.com -u xxxxxxx -p
